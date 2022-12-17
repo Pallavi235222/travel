@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4a3521bb-b297-42f8-8982-78106b42e8ec"
+      }
+    },
+    "owner": "pannupallavi"
   }
 }
